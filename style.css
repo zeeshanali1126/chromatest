@@ -451,6 +451,34 @@ html{
   pointer-events: auto;
   opacity: 1;
 }
+.imgspace img{
+  width: 260px;
+  height: 400px;
+  object-fit: cover;
+}
+.btncompare{
+  width: 200px;
+  height: 60px;
+  border: none;
+  border-radius: 1rem;
+  font-size: 1.5rem;
+  background: #06e588;
+}
+.btncompare:hover{
+   background: #fff;
+}
+.btncompare1{
+  width: 200px;
+  height: 60px;
+  border: none;
+  border-radius: 1rem;
+  font-size: 1.5rem;
+  margin-top: 8px;
+}
+.btncompare1:hover{
+  background: #06e588;
+
+}
 @media(min-width:267px) and (max-width:1014px) {
   .email-input-pin{
     width: 20rem;
@@ -498,12 +526,117 @@ html{
   }
 }
 @media(min-width:267px) and (max-width:1014px) {
+  .form-check-label2{
+    font-size: .6rem;
+    
+  }
+}
+@media(min-width:267px) and (max-width:1014px) {
   .imgspace{
        display: inline-grid;
 }
 }
-@media(min-width:267px) and (max-width:1014px) {
+@media(min-width:200px) and (max-width:1014px) {
   .slider{
-       margin-top: 2rem;
+       margin-top: 2.1rem;
+       
 }
 }
+@media(min-width:200px) and (max-width:1014px) {
+  .btnpink{
+    width: 5rem;
+    height:2rem ;
+    outline: 1px solid rgb(238, 25, 174);
+    border: none;
+    background: transparent;
+    color:rgb(238, 25, 174); 
+    font-size: 7px;
+}
+}
+@media(min-width:200px) and (max-width:1014px) {
+  .btnpink1{
+    width: 4rem;
+    height:2rem ;
+    outline: 1px solid rgb(238, 25, 174);
+    border: none;
+    background: transparent;
+    color:rgb(238, 25, 174); 
+    font-size: 7px;
+    margin-left: 2px;
+}
+}
+@media(min-width:200px) and (max-width:1014px) {
+  .p1{
+    padding-top: 10px;
+line-height: 1.2rem;
+  }
+}
+@media(min-width:200px) and (max-width:1014px) {
+    .p2{
+      font-size: 1rem;
+    }
+  }
+@media(min-width:200px) and (max-width:1014px) {
+    .p2{
+      font-size: 1rem;
+    }
+  }
+@media(min-width:200px) and (max-width:1014px) {
+  .p3{
+    font-size: .5rem;
+ 
+  }
+  }
+@media(min-width:200px) and (max-width:1014px) {
+  .p4{
+    font-size: .5rem;
+  }
+  }
+@media(min-width:200px) and (max-width:1014px) {
+  .p5{
+    font-size: .6rem;
+  }
+  }
+@media(min-width:200px) and (max-width:1014px) {
+  .imgspace img{
+    width: 100px;
+    height: 140px;
+    object-fit: cover;
+    padding-right: .5rem;
+  }
+}
+@media(min-width:200px) and (max-width:1014px) {
+  .btncompare{
+ width:49%;
+ height: 4rem;
+ border: none;
+ border-radius: .5rem;
+ font-size: 1.5rem;
+ background: #06e588;
+
+  }
+}
+@media(min-width:200px) and (max-width:1014px) {
+  .btncompare1{
+ width: 49%;
+ height: 4rem;
+ border: none;
+ border-radius: .5rem;
+ font-size: 1.5rem;
+ background: #134ddd;
+ 
+  }
+ 
+}
+ 
+ 
+ 
+      
+
+
+ 
+
+ 
+ 
+
+
